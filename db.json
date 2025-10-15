@@ -4,115 +4,115 @@
       "id": 1,
       "full_name": "Nguyễn Văn Minh",
       "account_number": "1234567890",
-      "bank": "Vietcombank",
+      "bank": "Vietcombank"
     },
     {
       "id": 2,
       "full_name": "Phạm Thị Lan",
       "account_number": "9876543210",
-      "bank": "Techcombank",
+      "bank": "Techcombank"
     },
     {
       "id": 29,
       "full_name": "Nguyễn Thị Lan",
       "account_number": "1122334455",
-      "bank": "VPBank",
+      "bank": "VPBank"
     },
     {
       "id": 30,
       "full_name": "Trần Thị Lan",
       "account_number": "2233445566",
-      "bank": "MB Bank",
+      "bank": "MB Bank"
     },
     {
       "id": 3,
       "full_name": "Trần Thị Hoa",
       "account_number": "5555555555",
-      "bank": "BIDV",
+      "bank": "BIDV"
     },
     {
       "id": 4,
       "full_name": "Lê Văn Nam",
       "account_number": "7777777777",
-      "bank": "ACB",
+      "bank": "ACB"
     },
     {
       "id": 5,
       "full_name": "Nguyễn Đình Bach",
       "account_number": "0000000000",
-      "bank": "Vietcombank",
+      "bank": "Vietcombank"
     },
     {
       "id": 6,
       "full_name": "Hoàng Thị Linh",
       "account_number": "1111222233",
-      "bank": "VPBank",
+      "bank": "VPBank"
     },
     {
       "id": 31,
       "full_name": "Vũ Thị Linh",
       "account_number": "3344556677",
-      "bank": "Sacombank",
+      "bank": "Sacombank"
     },
     {
       "id": 7,
       "full_name": "Trần Anh Tuấn",
       "account_number": "2222333344",
-      "bank": "Sacombank",
+      "bank": "Sacombank"
     },
     {
       "id": 8,
       "full_name": "Vũ Thị Hương",
       "account_number": "3333444455",
-      "bank": "MB Bank",
+      "bank": "MB Bank"
     },
     {
       "id": 9,
       "full_name": "Phạm Văn Dũng",
       "account_number": "4444555566",
-      "bank": "Agribank",
+      "bank": "Agribank"
     },
     {
       "id": 10,
       "full_name": "Lê Thị Mai",
       "account_number": "5555666677",
-      "bank": "TP Bank",
+      "bank": "TP Bank"
     },
     {
       "id": 32,
       "full_name": "Đặng Thị Mai",
       "account_number": "4455667788",
-      "bank": "ACB",
+      "bank": "ACB"
     },
     {
       "id": 11,
       "full_name": "Đỗ Minh Quân",
       "account_number": "6666777788",
-      "bank": "OCB",
+      "bank": "OCB"
     },
     {
       "id": 12,
       "full_name": "Nguyễn Thị Thảo",
       "account_number": "7777888899",
-      "bank": "HDBank",
+      "bank": "HDBank"
     },
     {
       "id": 13,
       "full_name": "Trương Văn Khánh",
       "account_number": "8888999900",
-      "bank": "SeABank",
+      "bank": "SeABank"
     },
     {
       "id": 14,
       "full_name": "Bùi Thị Nhung",
       "account_number": "9999000011",
-      "bank": "VIB",
+      "bank": "VIB"
     },
     {
       "id": 15,
       "full_name": "Đinh Quang Hải",
       "account_number": "1010202030",
-      "bank": "SHB",
+      "bank": "SHB"
     }
   ]
 }
