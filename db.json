@@ -13,18 +13,6 @@
          "bank":"Techcombank"
       },
       {
-         "id":29,
-         "full_name":"Nguyễn Thị Lan",
-         "account_number":"1122334455",
-         "bank":"VPBank"
-      },
-      {
-         "id":30,
-         "full_name":"Trần Thị Lan",
-         "account_number":"2233445566",
-         "bank":"MB Bank"
-      },
-      {
          "id":3,
          "full_name":"Trần Thị Hoa",
          "account_number":"5555555555",
@@ -77,12 +65,6 @@
          "full_name":"Lê Thị Mai",
          "account_number":"5555666677",
          "bank":"TP Bank"
-      },
-      {
-         "id":32,
-         "full_name":"Đặng Thị Mai",
-         "account_number":"4455667788",
-         "bank":"ACB"
       },
       {
          "id":11,
